@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script
+  src="https://code.jquery.com/jquery-3.5.1.min.js"
+  integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+  crossorigin="anonymous"></script>
+ <style type="text/css">
+    
+    .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: scroll;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+    
+    .sidenav a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 15px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+    }
+    
+    .sidenav a:hover {
+      color: #f1f1f1;
+    }
+    
+    .sidenav .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }    
+    @media screen and (max-height: 450px) {
+      .sidenav {padding-top: 15px;}
+      .sidenav a {font-size: 18px;}
+    }
+    .accordion {
+        transition: 0.4s;
+    }
+    .panel {
+      padding: 0 18px;
+      background-color: white;
+      display: none;
+      overflow: hidden;
+    }   
+   #top{
+      position: sticky;
+      height: 50px;
+      width: auto;
+      top: 3em;
+  }
+   @media only screen and (max-width: 600px) {
+         #top{
+            position: relative;
+            height: 50px;
+            width: auto;
+            top: 0;
+        }
+   }
+</style>
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video-js.min.css" rel="stylesheet"/>
+    <link href="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.css" rel="stylesheet"/>
+    <script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflF_QJuO/www-widgetapi.js" async=""></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video.min.js"></script>
+    <script src="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.js"></script>
+    <link href="https://bugkkura.github.io/bugkkurasitetest/src/videojs.ass.css" rel="stylesheet"/>
+    <script src="https://bugkkura.github.io/bugkkurasitetest/src/videojs.ass.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.0.7/Youtube.min.js"></script>
+
+   
+    
+  </head>
+  <body>
+    <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav();">&times;</a>
+        <a href="https://bugkkura.github.io/bugkkurasitetest/">Home</a>
+  <a href="#" class="accordion">48G Theater Performances</a>
+    <div class="panel">
+        <a href="bugkkurasitetest/md/48g theater performance/akb48/akb48.html" class="subMenu">AKB48</a>
+        <a href="#" class="subMenu"></a>
+    </div>
+   <a href="#" class="accordion">Concerts</a>
+    <div class="panel">
+        <a href="#" class="subMenu">48G</a>
+        <a href="#" class="subMenu">IZ*ONE</a>
+    </div>
+  <a href="#" class="accordion">Drama</a>
+    <div class="panel">
+        <a href="#" class="subMenu">Majisuka Gakuen 4</a>
+        <a href="#" class="subMenu">Majisuka Gakuen 5</a>
+        <a href="#" class="subMenu">AKB Horror Night: Adrenaline's Night</a>
+        <a href="#" class="subMenu">Majisuka Gakuen 0</a>
+        <a href="#" class="subMenu">Crow's Blood</a>
+        <a href="#" class="subMenu">AKB Love Night: Love Factory</a>
+        <a href="#" class="subMenu">Cabasuka Gakuen</a>
+        <a href="#" class="subMenu">Mienai Toge (The Unseen Thorn)</a>
+        <a href="#" class="subMenu">Tofu Pro Wrestling</a>
+    </div>
+  <a href="#" class="accordion">## Music Video * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- 48G</a>
+        <a href="#" class="subMenu">- IZ*ONE</a>
+    </div>
+  <a href="#" class="accordion">## Performance * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- 48G</a>
+        <a href="#" class="subMenu">- IZ*ONE</a>
+    </div>
+  <a href="#" class="accordion">## Produce 48 * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- Episodes</a>
+        <a href="#" class="subMenu">- Behind Clips</a>
+    </div>
+
+  <a href="#" class="accordion">## Variety Shows * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- Japan (48G)</a>
+        <a href="#" class="subMenu">- Japan (IZ*ONE)</a>
+        <a href="#" class="subMenu">- Korea</a>
+        <!--<a href="#" class="subMenu">IZ* ONE CHU Season 3: Fantasy Campus</a>-->
+        <!--<a href="#" class="subMenu">IZ* ONE CHU Season 4: ON:TACT</a>-->
+        <!--<a href="#" class="subMenu">OliveTV Everyone's Kitchen</a>-->
+    </div>
+  <a href="#" class="accordion">## V LIVE * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- IZ*ONE</a>
+        <a href="#" class="subMenu">- Other Channels</a>
+    </div>
+  <a href="#" class="accordion">## YouTube * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- ENOZI Cam, ENOZI Cam +</a>
+        <a href="#" class="subMenu">- IZ* ONE Arcade, Arcade II</a>
+        <a href="#" class="subMenu">- Official Music Show Fancams</a>
+    </div>
+  <a href="#">## Misc. * * *</a>
+</div>    
+    <div id="top"><span style="font-size:25px;cursor:pointer" onclick="openNav();">&#9776; Menu </span></div>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        <br>
+        <p>Follow Miyawaki Sakura's SNS:
+          <br><a href="https://twitter.com/39saku_chan">Twitter</a> | <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://www.youtube.com/channel/UC9Z0cgZPBa2szfJcrJdfYvA">YouTube</a><br><a href="https://7gogo.jp/miyawaki-sakura">755</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
+        <br>
+        <br>
+        <br>
+       
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+        
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This site is maintained by <a href="https://twitter.com/bugkkura">@bugkkura</a>.</p>
+       <p style="">If there are any issues, do a hard refresh of the page first. If the issue is still there, contact me.</p>
+        <p>Huge thanks to <a href="https://twitter.com/sejeong_yang">@sejeong_yang</a> for the help in setting up this site!</p>
+        {% endif %}
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+    
+    <script type="text/javascript">
+    var specifiedElement = document.getElementById('mySidenav');    
+    //I'm using "click" but it works with any event
+    document.addEventListener('click', function(event) {
+      var isClickInside = specifiedElement.contains(event.target);    
+      if (!isClickInside) {
+//           console.log("width" + jQuery('#mySidenav').width());
+          if (jQuery('#mySidenav').width() == 250 || jQuery('#mySidenav').width() == 233) {
+//               console.log("check");
+              closeNav();
+          }
+      }
+      else {          
+//           console.log("close");
+      }
+    });    
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("mySidenav").classList.add("open");
+    }    
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("mySidenav").classList.remove("open");
+    }    
+    var acc = document.getElementsByClassName("accordion");
+    var i;    
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        /* Toggle between adding and removing the "active" class,
+        to highlight the button that controls the panel */
+        this.classList.toggle("active");    
+        /* Toggle between hiding and showing the active panel */
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+          panel.style.display = "none";
+        } else {
+          panel.style.display = "block";
+        }
+      });
+    }
+</script>
+  </body>
+</html> 
