@@ -5,7 +5,7 @@ layout: default
 <hr>
 
 <h2>2018</h2>
-<a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con
+<a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con<nbr>
   <ul>
     <li>La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">Group</a>)</li>
   </ul>
