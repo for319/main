@@ -23,11 +23,15 @@ Notes:
 
 <a href="./181113.html"></a>181113 SBS MTV The Show --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=VNGtyPb3hZk">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=StuGoFqCrlc">Group</a>) --- 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=p4NaHkxPC2Y">Group</a>)<br>
 
-<a href="./181114.html"></a>181114 MBC Music Show Champion<br>
-<a href="./181115.html"></a>181115 Mnet M! Countdown<br>
-<a href="./181117.html"></a>181117 MBC Show! Music Core<br>
-<a href="./181120.html"></a>181120 SBS MTV The Show<br>
-<a href="./181123.html"></a>181123 KBS2 Music Bank<br>
+<a href="./181114.html"></a>181114 MBC Music Show Champion --- La Vie en Rose (<a target="_blank" href="https://ok.ru/video/2471667829261">Solo</a>, <a target="_blank" href="https://ok.ru/video/2471665601037">Group</a>)<br>
+
+<a href="./181115.html"></a>181115 Mnet M! Countdown --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=tnDHnbk1Pds">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=eLsTlxnrr-Y">Group</a>)<br>
+
+<a href="./181117.html"></a>181117 MBC Show! Music Core --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=gCrjp4QYjtc">Group</a>)<br>
+
+<a href="./181120.html"></a>181120 SBS MTV The Show --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=SturSY8DmbM">Group</a>)<br>
+
+<a href="./181123.html"></a>181123 KBS2 Music Bank --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=b7SUoX10EhQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=itGJS-eaLeY">Group</a>)<br>
 
 <h2>2019</h2>
 <a href="./190401.html"></a>190401 Mnet IZ* ONE Heart to HEARTIZ<br>
