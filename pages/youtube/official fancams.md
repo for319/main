@@ -5,13 +5,20 @@ layout: default
 <hr>
 
 <h2>2018</h2>
-<a style="margin-bottom: 0;" href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">Group</a>)<br>
+<a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">Group</a>)<br>
+
 <a href="./181101.html"></a>181101 Mnet M! Countdown --- 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=T2Bvxr2OTUU">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Kd4_ReNpzAM">Group</a>)<br>
-<a href="./181102.html"></a>181102 KBS2 Music Bank<br>
-<a href="./181103.html"></a>181103 MBC Show! Music Core<br>
-<a href="./181108.html"></a>181108 Mnet M! Countdown<br>
-<a href="./181111.html"></a>181111 SBS Inkigayo<br>
-<a href="./181113.html"></a>181113 SBS MTV The Show<br>
+
+<a href="./181102.html"></a>181102 KBS2 Music Bank --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Hl0cKop17fU">Solo</a>)<br>
+
+<a href="./181103.html"></a>181103 MBC Show! Music Core --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=XIbrYlvCvE8">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iu5aIywieVY">Group</a>)<br>
+
+<a href="./181108.html"></a>181108 Mnet M! Countdown --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=nSMt0IPwAhQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=BkV4QSpVdA8">Group</a>), <a target="_blank" href="https://www.youtube.com/watch?v=2KU_P2cNAg4">No.1 Encore<br>
+
+<a href="./181111.html"></a>181111 SBS Inkigayo --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=GtSWXUSnI7I">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=py9xIsKNvMk">Group</a>)<br>
+
+<a href="./181113.html"></a>181113 SBS MTV The Show --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=VNGtyPb3hZk">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=StuGoFqCrlc">Group</a>) --- 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=p4NaHkxPC2Y">Group</a>)<br>
+
 <a href="./181114.html"></a>181114 MBC Music Show Champion<br>
 <a href="./181115.html"></a>181115 Mnet M! Countdown<br>
 <a href="./181117.html"></a>181117 MBC Show! Music Core<br>
