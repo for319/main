@@ -21,7 +21,7 @@ Notes:
 
 <a href="./181111.html"></a>181111 SBS Inkigayo --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=GtSWXUSnI7I">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=py9xIsKNvMk">Group</a>)<br>
 
-<a href="./181113.html"></a>181113 SBS MTV The Show --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=VNGtyPb3hZk">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=StuGoFqCrlc">Group</a>) | 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=p4NaHkxPC2Y">Group</a>)<br>
+<a href="./181113.html"></a>181113 SBS MTV The Show --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=VNGtyPb3hZk">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=StuGoFqCrlc">Group</a>) / 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=p4NaHkxPC2Y">Group</a>)<br>
 
 <a href="./181114.html"></a>181114 MBC Music Show Champion --- La Vie en Rose (<a target="_blank" href="https://ok.ru/video/2471667829261">Solo</a>, <a target="_blank" href="https://ok.ru/video/2471665601037">Group</a>)<br>
 
@@ -35,11 +35,11 @@ Notes:
 <br>
 
 <h2>2019</h2>
-<a href="./190401.html"></a>190401 Mnet IZ* ONE Heart to HEARTIZ --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=m2K26HTAi_E">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=lEDQIPAg2z0">Group</a>) | La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=-1uIAEGBfOs">Group</a>) | Up (<a target="_blank" href="https://www.youtube.com/watch?v=YeJ9s9Xtzug">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=nR7Jn8_uLvA">Group</a>) | Suki to Iwasetai (<a target="_blank" href="https://www.youtube.com/watch?v=bDAoIX1nyjY">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=DPQ0x91Fbx8">Group</a>) <br>
+<a href="./190401.html"></a>190401 Mnet IZ* ONE Heart to HEARTIZ --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=m2K26HTAi_E">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=lEDQIPAg2z0">Group</a>) / La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=-1uIAEGBfOs">Group</a>) / Up (<a target="_blank" href="https://www.youtube.com/watch?v=YeJ9s9Xtzug">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=nR7Jn8_uLvA">Group</a>) / Suki to Iwasetai (<a target="_blank" href="https://www.youtube.com/watch?v=bDAoIX1nyjY">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=DPQ0x91Fbx8">Group</a>) <br>
 
-<a href="./190402.html"></a>190402 Mnet HEARTIZ Comeback Guerilla --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Pyu_UbL8c2s">Group</a>) | La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=kG8BJWqo42w">Group</a>) | Up (<a target="_blank" href="https://www.youtube.com/watch?v=MXqG0e6wuY4">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=gZzryGc_RiE">Group</a>)<br>
+<a href="./190402.html"></a>190402 Mnet HEARTIZ Comeback Guerilla --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Pyu_UbL8c2s">Group</a>) / La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=kG8BJWqo42w">Group</a>) / Up (<a target="_blank" href="https://www.youtube.com/watch?v=MXqG0e6wuY4">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=gZzryGc_RiE">Group</a>)<br>
 
-<a href="./190404.html"></a>190404 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sDBPKy5jHRY">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=cuhbuxmNRpY">Group</a>) | Up (<a target="_blank" href="https://www.youtube.com/watch?v=x73DIPwineM">Group</a>, <a target="_blank" href="https://ok.ru/video/2471827999245">Group (Mirrored)</a>)<br>
+<a href="./190404.html"></a>190404 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sDBPKy5jHRY">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=cuhbuxmNRpY">Group</a>) / Up (<a target="_blank" href="https://www.youtube.com/watch?v=x73DIPwineM">Group</a>, <a target="_blank" href="https://ok.ru/video/2471827999245">Group (Mirrored)</a>)<br>
 
 <a href="./190405.html"></a>190405 KBS2 Music Bank<br>
 <a href="./190406.html"></a>190406 MBC Show! Music Core<br>
