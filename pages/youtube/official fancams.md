@@ -11,7 +11,7 @@ Notes:
 <a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con
 --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">Group</a>)<br>
 
-<a href="./181101.html"></a>181101 Mnet M! Countdown --- 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=T2Bvxr2OTUU">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Kd4_ReNpzAM">Group</a>)<br>
+<a href="./181101.html"></a>181101 Mnet M! Countdown --- 'O' My! (<a target="_blank" href="https://www.youtube.com/watch?v=T2Bvxr2OTUU">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Kd4_ReNpzAM">IZ*ONE</a>)<br>
 
 <a href="./181102.html"></a>181102 KBS2 Music Bank --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Hl0cKop17fU">Solo</a>)<br>
 
