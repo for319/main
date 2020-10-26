@@ -41,13 +41,13 @@ Notes:
 
 <a href="./190404.html"></a>190404 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sDBPKy5jHRY">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=W0hntlJHAXY">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=cuhbuxmNRpY">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=x73DIPwineM">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/2471827999245">IZ*ONE (Mirrored)</a>)<br>
 
-<a href="./190405.html"></a>190405 KBS2 Music Bank --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=KDfebdR8XyM">Sakura</a><br>
+<a href="./190405.html"></a>190405 KBS2 Music Bank --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=KDfebdR8XyM">Sakura</a>)<br>
 
-<a href="./190406.html"></a>190406 MBC Show! Music Core --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sNhpb44kKhU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=yb9aV833W64">IZ*ONE</a><br>
+<a href="./190406.html"></a>190406 MBC Show! Music Core --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sNhpb44kKhU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=yb9aV833W64">IZ*ONE</a>)<br>
 
 <a href="./190409.html"></a>190409 SBS MTV The Show --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=6Sd9oOgcCas">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=HDJiuSF1NWM">IZ*ONE</a>) - - Up (<a target="_blank" href="https://twitter.com/TheKpop/status/1116577017040781312">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iL5XB5jzwHY">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=DnO8b-QJa0s">THE SHOW CHOICE</a><br>
 
-<a href="./190410.html"></a>190410 MBC Music Show Champion --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=puYU5lCRV7w">IZ*ONE</a>) - - For Fans To Capture♥CLEAN ver. (<a target="_blank" href="https://www.youtube.com/watch?v=IgnnSnxAodA">Violeta</a>, <a target="_blank" href="https://ok.ru/video/2485147732493">Up</a>) - - Mu:cam (<a target="_blank" href="https://www.youtube.com/watch?v=yHcZMCI78Q0">Sakura</a>)<br>
+<a href="./190410.html"></a>190410 MBC Music Show Champion --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=yHcZMCI78Q0">Sakura Mu:cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=puYU5lCRV7w">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=IgnnSnxAodA">For Fans To Capture♥CLEAN ver.</a>) - - Up (<a target="_blank" href="https://ok.ru/video/2485147732493">For Fans To Capture♥CLEAN ver.</a>)<br>
 
 <a href="./190410.html"></a>190410 MBC Weekly Idol --- Violeta (<a target="_blank" href="https://ok.ru/video/2485149305357">Sakura</a>) - - La Vie en Rose (<a target="_blank" href="https://ok.ru/video/2485149436429">Sakura</a>)<br>
   
@@ -69,7 +69,7 @@ Notes:
 
 <a href="./190421.html"></a>190421 SBS Inkigayo --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=0Iqj8UxAN-M">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iynz5PsmAjU">IZ*ONE</a>)<br>
 
-<a href="./190428.html"></a>190428 SBS Super Concert --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=E7Hc1AYF_BQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=JnlEZ6dHoo8">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=EcmsEWMJS0g">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=eorCy7WEfvw">IZ*ONE</a><br>
+<a href="./190428.html"></a>190428 SBS Super Concert --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=E7Hc1AYF_BQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=JnlEZ6dHoo8">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=EcmsEWMJS0g">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=eorCy7WEfvw">IZ*ONE</a>)<br>
 
 <a href="./190628.html"></a>190628 KBS2 Music Bank --- Intro + Airplane + Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=evhL6ZE4Iq0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=7Crq9Gpwx8A">IZ*ONE</a>) <br>
 
