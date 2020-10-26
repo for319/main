@@ -17,7 +17,7 @@ Notes:
 
 <a href="./181103.html"></a>181103 MBC Show! Music Core --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=XIbrYlvCvE8">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iu5aIywieVY">IZ*ONE</a>)<br>
 
-<a href="./181108.html"></a>181108 Mnet M! Countdown --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=nSMt0IPwAhQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=BkV4QSpVdA8">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=2KU_P2cNAg4">No.1 Encore<br>
+<a href="./181108.html"></a>181108 Mnet M! Countdown --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=nSMt0IPwAhQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=nSMt0IPwAhQ">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=BkV4QSpVdA8">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=2KU_P2cNAg4">No.1 Encore<br>
 
 <a href="./181111.html"></a>181111 SBS Inkigayo --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=GtSWXUSnI7I">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=py9xIsKNvMk">IZ*ONE</a>)<br>
 
@@ -39,7 +39,7 @@ Notes:
 
 <a href="./190402.html"></a>190402 Mnet HEARTIZ Comeback Guerilla --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Pyu_UbL8c2s">IZ*ONE</a>) - - La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=kG8BJWqo42w">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=MXqG0e6wuY4">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=gZzryGc_RiE">IZ*ONE</a>)<br>
 
-<a href="./190404.html"></a>190404 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sDBPKy5jHRY">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=cuhbuxmNRpY">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=x73DIPwineM">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/2471827999245">IZ*ONE (Mirrored)</a>)<br>
+<a href="./190404.html"></a>190404 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sDBPKy5jHRY">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=W0hntlJHAXY">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=cuhbuxmNRpY">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=x73DIPwineM">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/2471827999245">IZ*ONE (Mirrored)</a>)<br>
 
 <a href="./190405.html"></a>190405 KBS2 Music Bank --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=KDfebdR8XyM">Sakura</a><br>
 
@@ -73,11 +73,13 @@ Notes:
 
 <a href="./190628.html"></a>190628 KBS2 Music Bank --- Intro + Airplane + Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=evhL6ZE4Iq0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=7Crq9Gpwx8A">IZ*ONE</a>) <br>
 
-<a href="./190801.html"></a>190801 Mnet M2 X Genie Music Awards --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Hpp1oMorYNI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=kvQl6alxhn4">IZ*ONE</a>) - - Highlight (<a target="_blank" href="https://www.youtube.com/watch?v=waWpOPLZPMU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=DA3PzJs697E">IZ*ONE</a><br>
+<a href="./190801.html"></a>190801 Mnet M2 X Genie Music Awards --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Hpp1oMorYNI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=kvQl6alxhn4">IZ*ONE</a>) - - Highlight (<a target="_blank" href="https://www.youtube.com/watch?v=waWpOPLZPMU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=DA3PzJs697E">IZ*ONE</a>)<br>
 
 <h2>2020</h2>
-<a href="./200217.html"></a>200217 Mnet IZ* ONE COMEBACK BLOOMIZ<br>
+<a href="./200217.html"></a>200217 Mnet IZ* ONE COMEBACK BLOOMIZ --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=vpQdW_3Wfac">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=XEhwvuOBlCA">IZ*ONE</a>) - - AYAYAYA (<a target="_blank" href="https://www.youtube.com/watch?v=7zYYp1aB8Iw">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Vm2qS4wrORY">IZ*ONE</a>) - - SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=mOrTfGtpzRc">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=VoygiMvulIs">IZ*ONE</a>) - - Hey. Bae. Like. It (<a target="_blank" href="https://www.youtube.com/watch?v=H83yBPIw61k">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Qb2r9h-cDw8">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=WUs7tESQFuA">IZ*ONE</a>)<br>
+
 <a href="./200220.html"></a>200220 Mnet M! Countdown<br>
+
 <a href="./200221.html"></a>200221 KBS2 Music Bank<br>
 <a href="./200222.html"></a>200222 MBC Show! Music Core<br>
 <a href="./200223.html"></a>200223 SBS Inkigayo<br>
