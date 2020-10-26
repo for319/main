@@ -45,7 +45,7 @@ Notes:
 
 <a href="./190406.html"></a>190406 MBC Show! Music Core --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=sNhpb44kKhU">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=yb9aV833W64">Group</a><br>
 
-<a href="./190409.html"></a>190409 SBS MTV The Show --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=6Sd9oOgcCas">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=HDJiuSF1NWM">Group</a><br> - - Up (<a target="_blank" href="https://twitter.com/TheKpop/status/1116577017040781312">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iL5XB5jzwHY">Group</a> - - <a target="_blank" href="https://www.youtube.com/watch?v=DnO8b-QJa0s">THE SHOW CHOICE</a>
+<a href="./190409.html"></a>190409 SBS MTV The Show --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=6Sd9oOgcCas">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=HDJiuSF1NWM">Group</a>) - - Up (<a target="_blank" href="https://twitter.com/TheKpop/status/1116577017040781312">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iL5XB5jzwHY">Group</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=DnO8b-QJa0s">THE SHOW CHOICE</a><br>
 
 <a href="./190410.html"></a>190410 MBC Music Show Champion<br>
 <a href="./190410.html"></a>190410 MBC Weekly Idol<br>
