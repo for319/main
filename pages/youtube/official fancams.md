@@ -17,7 +17,7 @@ Notes:
 
 <a href="./181103.html"></a>181103 MBC Show! Music Core --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=XIbrYlvCvE8">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iu5aIywieVY">Group</a>)<br>
 
-<a href="./181108.html"></a>181108 Mnet M! Countdown --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=nSMt0IPwAhQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=BkV4QSpVdA8">Group</a>) // <a target="_blank" href="https://www.youtube.com/watch?v=2KU_P2cNAg4">No.1 Encore<br>
+<a href="./181108.html"></a>181108 Mnet M! Countdown --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=nSMt0IPwAhQ">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=BkV4QSpVdA8">Group</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=2KU_P2cNAg4">No.1 Encore<br>
 
 <a href="./181111.html"></a>181111 SBS Inkigayo --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=GtSWXUSnI7I">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=py9xIsKNvMk">Group</a>)<br>
 
