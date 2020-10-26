@@ -47,13 +47,20 @@ Notes:
 
 <a href="./190409.html"></a>190409 SBS MTV The Show --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=6Sd9oOgcCas">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=HDJiuSF1NWM">Group</a>) - - Up (<a target="_blank" href="https://twitter.com/TheKpop/status/1116577017040781312">Solo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iL5XB5jzwHY">Group</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=DnO8b-QJa0s">THE SHOW CHOICE</a><br>
 
-<a href="./190410.html"></a>190410 MBC Music Show Champion<br>
-<a href="./190410.html"></a>190410 MBC Weekly Idol<br>
-<a href="./190411.html"></a>190411 Mnet M! Countdown<br>
-<a href="./190412.html"></a>190412 KBS2 Music Bank<br>
-<a href="./190413.html"></a>190413 MBC Show! Music Core<br>
-<a href="./190416.html"></a>190416 SBS MTV The Show<br>
+<a href="./190410.html"></a>190410 MBC Music Show Champion --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=puYU5lCRV7w">Group</a>) - - For Fans To Capture♥CLEAN ver. (<a target="_blank" href="https://www.youtube.com/watch?v=IgnnSnxAodA">Violeta</a>, (<a target="_blank" href="https://ok.ru/video/2485147732493">Up</a>) - - Mu:cam (<a target="_blank" href="https://www.youtube.com/watch?v=yHcZMCI78Q0">Sakura</a>)<br>
+
+<a href="./190410.html"></a>190410 MBC Weekly Idol --- Violeta (<a target="_blank" href="https://ok.ru/video/2485149305357">Solo) - - La Vie en Rose (<a target="_blank" href="https://ok.ru/video/2485149436429">Solo)<br>
+  
+<a href="./190411.html"></a>190411 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=3Qor5B6BhcU">Group</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=-Q4AheTV0Rg">1st Place Encore</a><br>
+
+<a href="./190412.html"></a>190412 KBS2 Music Bank --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Hf2fy7TeL-g">Group</a>)<br>
+
+<a href="./190413.html"></a>190413 MBC Show! Music Core --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=eTf8XLLwTz4">Group</a>)<br>
+
+<a href="./190416.html"></a>190416 SBS MTV The Show --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=x2EJGte0oik">Group</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=DDx8hg61uz0">THE SHOW CHOICE</a><br>
+
 <a href="./190417.html"></a>190417 MBC Music Show Champion<br>
+
 <a href="./190418.html"></a>190418 Mnet M! Countdown<br>
 <a href="./190419.html"></a>190419 KBS2 Music Bank<br>
 <a href="./190420.html"></a>190420 MBC Show! Music Core<br>
