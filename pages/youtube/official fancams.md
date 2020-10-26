@@ -49,7 +49,7 @@ Notes:
 
 <a href="./190410.html"></a>190410 MBC Music Show Champion --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=puYU5lCRV7w">IZ*ONE</a>) - - For Fans To Capture♥CLEAN ver. (<a target="_blank" href="https://www.youtube.com/watch?v=IgnnSnxAodA">Violeta</a>, <a target="_blank" href="https://ok.ru/video/2485147732493">Up</a>) - - Mu:cam (<a target="_blank" href="https://www.youtube.com/watch?v=yHcZMCI78Q0">Sakura</a>)<br>
 
-<a href="./190410.html"></a>190410 MBC Weekly Idol --- Violeta (<a target="_blank" href="https://ok.ru/video/2485149305357">Sakura) - - La Vie en Rose (<a target="_blank" href="https://ok.ru/video/2485149436429">Sakura)<br>
+<a href="./190410.html"></a>190410 MBC Weekly Idol --- Violeta (<a target="_blank" href="https://ok.ru/video/2485149305357">Sakura</a>) - - La Vie en Rose (<a target="_blank" href="https://ok.ru/video/2485149436429">Sakura</a>)<br>
   
 <a href="./190411.html"></a>190411 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=3Qor5B6BhcU">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=-Q4AheTV0Rg">1st Place Encore</a><br>
 
@@ -59,15 +59,21 @@ Notes:
 
 <a href="./190416.html"></a>190416 SBS MTV The Show --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=x2EJGte0oik">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=DDx8hg61uz0">THE SHOW CHOICE</a><br>
 
-<a href="./190417.html"></a>190417 MBC Music Show Champion<br>
+<a href="./190417.html"></a>190417 MBC Music Show Champion --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=2qffU0cU1a4">IZ*ONE</a>)<br>
 
-<a href="./190418.html"></a>190418 Mnet M! Countdown<br>
-<a href="./190419.html"></a>190419 KBS2 Music Bank<br>
-<a href="./190420.html"></a>190420 MBC Show! Music Core<br>
-<a href="./190421.html"></a>190421 SBS Inkigayo<br>
-<a href="./190428.html"></a>190428 SBS Super Concert<br>
-<a href="./190628.html"></a>190628 KBS2 Music Bank<br>
-<a href="./190801.html"></a>190801 Mnet M2 X Genie Music Awards<br>
+<a href="./190418.html"></a>190418 Mnet M! Countdown --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=gwS9M6_m4OI">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=Eya38Y69PQY">No. 1 Encore</a><br>
+
+<a href="./190419.html"></a>190419 KBS2 Music Bank --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=R5R0-U844XI">IZ*ONE</a>)<br> 
+
+<a href="./190420.html"></a>190420 MBC Show! Music Core --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=NCcXjqtydXA">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=ytsjiExWc3s">IZ*ONE</a>)<br>
+
+<a href="./190421.html"></a>190421 SBS Inkigayo --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=0Iqj8UxAN-M">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=iynz5PsmAjU">IZ*ONE</a>)<br>
+
+<a href="./190428.html"></a>190428 SBS Super Concert --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=E7Hc1AYF_BQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=JnlEZ6dHoo8">IZ*ONE</a>) - - Up (<a target="_blank" href="https://www.youtube.com/watch?v=EcmsEWMJS0g">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=eorCy7WEfvw">IZ*ONE</a><br>
+
+<a href="./190628.html"></a>190628 KBS2 Music Bank --- Intro + Airplane + Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=evhL6ZE4Iq0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=7Crq9Gpwx8A">IZ*ONE</a>) <br>
+
+<a href="./190801.html"></a>190801 Mnet M2 X Genie Music Awards --- Violeta (<a target="_blank" href="https://www.youtube.com/watch?v=Hpp1oMorYNI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=kvQl6alxhn4">IZ*ONE</a>) - - Highlight (<a target="_blank" href="https://www.youtube.com/watch?v=waWpOPLZPMU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=DA3PzJs697E">IZ*ONE</a><br>
 
 <h2>2020</h2>
 <a href="./200217.html"></a>200217 Mnet IZ* ONE COMEBACK BLOOMIZ<br>
