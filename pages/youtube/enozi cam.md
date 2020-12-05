@@ -62,11 +62,18 @@ Notes:<nbr>
 <a target="_blank" href="https://youtu.be/EkqHc3dminU?t=301">Episode 62</a> The Star Photoshoot<br>
 <a target="_blank" href="https://youtu.be/inIXrInvYs0?t=580">Episode 64</a> Oneiric Diary Promotions #1 (200618)<br>
 <a target="_blank" href="https://youtu.be/zsMj5o-R45Q?t=84">Episode 65</a> Oneiric Diary Promotions #2 (200619, 200620, 200621)<br>
-<a target="_blank" href="https://youtu.be/VYIuupYJPMw?t=23">Episode 66</a> 2020 K:CONTACT<br>
+<a target="_blank" href="https://youtu.be/VYIuupYJPMw?t=23">Episode 66</a> 2020 K:CONTACT Season 1<br>
 <a target="_blank" href="https://youtu.be/VktPQOZEtpM?t=60">Episode 67</a> Oneiric Diary Promotions #3 (200626)<br>
 <a target="_blank" href="https://youtu.be/M7xCAjeia9g?t=5">Episode 68</a> Oneiric Diary Promotions #4 (200627, 200628, 200705)<br>
 <a target="_blank" href="https://youtu.be/JgXgfieOUIk?t=27">Episode 69</a> IZ* ONE Eat-ing Trip (No speaking parts)<br>
 <a target="_blank" href="https://youtu.be/r3IGmjnjfkk?t=37">Episode 70</a> DICON Photoshoot<br>
+<a target="_blank" href="https://youtu.be/Y13L0RsxwPE?t=111">Episode 71</a> 2020 Soribada Best K-Music Awards<br>
+<a target="_blank" href="https://youtu.be/h1RHO5BFnZw?t=231">Episode 72</a> Oneiric Theater Photoshoot<br>
+<a target="_blank" href="https://youtu.be/ekIiEdeGBTY?t=100">Episode 73</a> 2020 SUPER ON:TACT<br>
+<a target="_blank" href="https://youtu.be/6O12daeu4rQ?t=525">Episode 75</a> 2020 K:CONTACT Season 2 #1<br>
+<a target="_blank" href="https://youtu.be/xSpoAEnJh6c?t=103">Episode 76</a> 2020 K:CONTACT Season 2 #2<br>
+<a target="_blank" href="https://youtu.be/JoFGFVzWvIc?t=419">Episode 78</a> Love Your W: Ontact Concert<br>
+
 <br>
 
 <h2>ENOZI Cam +</h2>
