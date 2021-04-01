@@ -65,30 +65,16 @@ layout: default
     </div></div></div>
     </div>
 <script>
-    var vjs = videojs('player');
-        controls: true,
-        nativeControlsForTouch: false,
-        width: 1000,
-        height: 562,
-        fluid: true,
-        techOrder: ["youtube"],
-        sources: [{"type": "video/youtube", "src": "https://www.youtube.com/watch?v=kZKd-jlV6jI"}]
-      });
-      // initialize the plugin this way to access internal methods
-    
-      var vjs_ass = vjs.ass({
-        'src': ["../../subs/180930MiyawakiSakuraMarvelSpiderManLivePS4.ass"],
-        label: "English",
-        videoWidth: 640,
-        videoHeight: 360,
-        // enableSvg: false
-      });
-
-      // you will then be able to use the following js to switch subtitle
-       vjs_ass.loadNewSubtitle("../../subs/180930MiyawakiSakuraMarvelSpiderManLivePS4.ass"),
-           label: "Chinese",
-        videoWidth: 640,
-        videoHeight: 360,
+   <video
+  class="video-js"
+  controls
+  preload="auto"
+  width="1000"
+  height="562"
+  data-setup='{}'>
+  <source src="https://www.youtube.com/watch?v=kZKd-jlV6jI" type="video/youtube">
+  <track kind="captions" src="../../subs/180930MiyawakiSakuraMarvelSpiderManLivePS4.ass" srclang="en" label="English" default>
+</video>
    
     
     </script>
