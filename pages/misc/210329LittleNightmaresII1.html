@@ -2,83 +2,12 @@
 layout: default
 ---
 
-<style class="vjs-styles-defaults">
-    .video-js {
-      width: 300px;
-      height: 150px;
-    }
-    .vjs-fluid {
-      padding-top: 56.25%
-    }
-  </style><style class="vjs-styles-dimensions">
-      .player-dimensions {
-        width: 640px;
-        height: 360px;
-      }
-      .player-dimensions.vjs-fluid {
-        padding-top: 56.25%;
-      }
-    </style>
-<style type="text/css">.vjs-youtube .vjs-iframe-blocker { display: none; }.vjs-youtube.vjs-user-inactive .vjs-youtube .vjs-youtube-mobile .vjs-big-play-button { display: none; }</style>
-  <style>
-    .header {
-      display: flex;
-      align-items: center;
-    }    
-    .back {
-      flex: 0;
-      margin: 0 1rem;
-      text-decoration: none;
-      white-space: nowrap;
-    }    
-    .player-wrapper {
-      width: 100%;
-    }
-    @media screen and (max-device-width: 600px) {
-      .player-wrapper {
-        width: 90%;
-      }
-    }
-    @media screen and (max-device-width: 800px) {
-      .player-wrapper {
-        width: 90%;
-      }
-    }
-    @media screen and (max-device-width: 1200px) {
-      .player-wrapper {
-        width: 90%;
-      }
-    }    
-    @media screen and (min-device-width: 1600px) {
-      .player-wrapper {
-        width: 100%;
-      }
-    }</style><style id="libjass-animation-styles-0" type="text/css"></style>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="../../mediaelement-master/build/mediaelement-and-player.min.js"</script>
+<script src="../../mediaelement-master/build/renderers/youtube.min.js"></script>
+<link rel="stylesheet" href="../../mediaelement-master/build/mediaelementplayer.min.css" />
 
-<h2>[Bug. Subs] 180930 MARVEL SPIDER-MAN Live [PS4]</h2>
-<head>
-  <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
-
-  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
-</head>
-
-<body>
-  <video
-    id="my-video"
-    class="video-js"
-    controls
-    preload="auto"
-    width="640"
-    height="264"
-    data-setup="{}"
-  >
-    <source src="https://www.youtube.com/watch?v=kZKd-jlV6jI" type="video/youtube" />
-   
-  </video>
-
-  <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
-</body>
+<video src="https://www.youtube.com/watch?v=kZKd-jlV6jI" width="320" height="240" type="video/youtube"></video>
 
 <div style="">
 - Best viewed on PC.<br>- You can use 'j'/'l' on your keyboard to go backward/forward by 10s.<br>
