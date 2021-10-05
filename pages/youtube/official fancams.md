@@ -78,8 +78,9 @@ Notes:
 <h2>2020</h2>
 <a href="./200217.html"></a>200217 Mnet IZ* ONE COMEBACK BLOOMIZ --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=vpQdW_3Wfac">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=XEhwvuOBlCA">IZ*ONE</a>) - - AYAYAYA (<a target="_blank" href="https://www.youtube.com/watch?v=7zYYp1aB8Iw">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Vm2qS4wrORY">IZ*ONE</a>) - - SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=mOrTfGtpzRc">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=VoygiMvulIs">IZ*ONE</a>) - - Hey. Bae. Like. It (<a target="_blank" href="https://www.youtube.com/watch?v=H83yBPIw61k">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Qb2r9h-cDw8">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=WUs7tESQFuA">IZ*ONE</a>)<br>
 
-<a href="./200220.html"></a>200220 Mnet M! Countdown<br>
+<a href="./200220.html"></a>200220 Mnet M! Countdown --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=UETG8syaOW4">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hC_yoargvOU">IZ*ONE</a>) - - SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=d4tUwCZG6pA">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=JG-KjvY19gY">IZ*ONE</a>), - - DESTINY (<a target="_blank" href="https://www.youtube.com/watch?v=W5O95bPP0F0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hMCtxz_8hls">IZ*ONE</a>)<br>
 
+  
 <a href="./200221.html"></a>200221 KBS2 Music Bank<br>
 <a href="./200222.html"></a>200222 MBC Show! Music Core<br>
 <a href="./200223.html"></a>200223 SBS Inkigayo<br>
