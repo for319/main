@@ -92,16 +92,21 @@ Notes:
   
 <a href="./200227.html"></a>200227 Mnet M! Countdown --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=vvwR1KinlHE">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=zwHfn2ULgIA">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=Zgowsl45oDI">1st Place Encore</a><br>
   
-<a href="./200301.html"></a>200301 SBS Inkigayo --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=fZ4reyA5PS8">Sakura Face Came</a>, <a target="_blank" href="https://www.youtube.com/watch?v=0z-WHyT_tXU">IZ*ONE</a>), <a target="_blank" href="https://www.youtube.com/watch?v=t9zhDs2Yomo">IZ*ONE Side Cam</a>), <a target="_blank" href="https://www.youtube.com/watch?v=LZVZNPiX8C8">IZ*ONE Sky Cam</a>), <a target="_blank" href="https://www.youtube.com/watch?v=wyuPG4JDKB4">IZ*ONE Jimmy Jib Cam</a>) <br>
+<a href="./200301.html"></a>200301 SBS Inkigayo --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=fZ4reyA5PS8">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=0z-WHyT_tXU">IZ*ONE</a>), <a target="_blank" href="https://www.youtube.com/watch?v=t9zhDs2Yomo">IZ*ONE Side Cam</a>), <a target="_blank" href="https://www.youtube.com/watch?v=LZVZNPiX8C8">IZ*ONE Sky Cam</a>), <a target="_blank" href="https://www.youtube.com/watch?v=wyuPG4JDKB4">IZ*ONE Jimmy Jib Cam</a>) <br>
   
-<a href="./200303.html"></a>200303 SBS MTV The Show -- FIESTA (<a target="_blank" href="https://ok.ru/video/3343530985997">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=4nPG54QFP1U">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/3343531313677">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343531313677">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343531444749">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343531379213">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343531248141">IZ*ONE Back View</a><br> --- <a target="_blank" href="https://www.youtube.com/watch?v=JLu0bmk2Brk">THE SHOW CHOICE</a>
+<a href="./200303.html"></a>200303 SBS MTV The Show --- FIESTA (<a target="_blank" href="https://ok.ru/video/3343530985997">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=4nPG54QFP1U">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/3343531313677">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343531313677">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343531444749">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343531379213">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343531248141">IZ*ONE Back View</a><br> --- <a target="_blank" href="https://www.youtube.com/watch?v=JLu0bmk2Brk">THE SHOW CHOICE</a>
   
-<a href="./200304.html"></a>200304 MBC Music Show Champion<br>
-<a href="./200305.html"></a>200305 Mnet M! Countdown<br>
-<a href="./200307.html"></a>200307 MBC Show! Music Core<br>
-<a href="./200308.html"></a>200308 SBS Inkigayo<br>
-<a href="./200615.html"></a>200615 Mnet IZ* ONE COMEBACK SHOW ONEIRIC DIARY<br>
-<a href="./200618.html"></a>200618 Mnet M! Countdown<br>
+<a href="./200304.html"></a>200304 MBC Music Show Champion --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=ugsOn3T5RDs">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=rS9i2RmNrec">IZ*ONE</a>)<br>
+  
+<a href="./200305.html"></a>200305 Mnet M! Countdown --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=ELU_YLPDCY8">IZ*ONE</a>)<br>
+  
+<a href="./200307.html"></a>200307 MBC Show! Music Core --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=yR9d4HLyebU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FLUcocSIxCk">IZ*ONE</a>) --- SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=9hSXV4fNdYY">IZ*ONE</a>)<br>
+  
+<a href="./200308.html"></a>200308 SBS Inkigayo --- FIESTA <a target="_blank" href="https://ok.ru/video/3343609694733">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=g-CANwH3i4o">IZ*ONE</a>) <br>
+  
+<a href="./200615.html"></a>200615 Mnet IZ* ONE COMEBACK SHOW ONEIRIC DIARY --- Welcome + Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=nItEIw2F0dI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=J19LItApO7s">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=A_ZDsM8QtOc">IZ*ONE</a>)--- Pretty (<a target="_blank" href="https://www.youtube.com/watch?v=WkB-SrmDPsM">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=f1dCUGTaSSA">IZ*ONE</a>) --- Merry-Go-Round (<a target="_blank" href="https://www.youtube.com/watch?v=oQQ6aQVxqIo">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=74r9rGOhHUU">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=C1dCbs58j0k">IZ*ONE</a>) --- With*One (<a target="_blank" href="https://www.youtube.com/watch?v=NWF84Jv3qxk">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=CKVOGsgRldc">IZ*ONE</a>)<br>
+  
+<a href="./200618.html"></a>200618 Mnet M! Countdown  <br>
 <a href="./200619.html"></a>200619 KBS2 Music Bank<br>
 <a href="./200620.html"></a>200620 MBC Show! Music Core<br>
 <a href="./200621.html"></a>200621 SBS Inkigayo<br>
