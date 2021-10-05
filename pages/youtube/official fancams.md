@@ -79,15 +79,21 @@ Notes:
 <a href="./200217.html"></a>200217 Mnet IZ* ONE COMEBACK BLOOMIZ --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=vpQdW_3Wfac">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=XEhwvuOBlCA">IZ*ONE</a>) - - AYAYAYA (<a target="_blank" href="https://www.youtube.com/watch?v=7zYYp1aB8Iw">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Vm2qS4wrORY">IZ*ONE</a>) - - SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=mOrTfGtpzRc">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=VoygiMvulIs">IZ*ONE</a>) - - Hey. Bae. Like. It (<a target="_blank" href="https://www.youtube.com/watch?v=H83yBPIw61k">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Qb2r9h-cDw8">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=WUs7tESQFuA">IZ*ONE</a>)<br>
 
 <a href="./200220.html"></a>200220 Mnet M! Countdown --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=UETG8syaOW4">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hC_yoargvOU">IZ*ONE</a>) - - SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=d4tUwCZG6pA">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=JG-KjvY19gY">IZ*ONE</a>), - - DESTINY (<a target="_blank" href="https://www.youtube.com/watch?v=W5O95bPP0F0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hMCtxz_8hls">IZ*ONE</a>)<br>
-
   
-<a href="./200221.html"></a>200221 KBS2 Music Bank<br>
-<a href="./200222.html"></a>200222 MBC Show! Music Core<br>
-<a href="./200223.html"></a>200223 SBS Inkigayo<br>
-<a href="./200225.html"></a>200225 SBS MTV The Show<br>
-<a href="./200226.html"></a>200226 MBC Music Show Champion<br>
-<a href="./200227.html"></a>200227 Mnet M! Countdown<br>
+<a href="./200221.html"></a>200221 KBS2 Music Bank --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=t2Jh4uY3K2w">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=qNCEIGCb3yM">IZ*ONE</a>)<br>
+  
+<a href="./200222.html"></a>200222 MBC Show! Music Core --- SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=a2LTH6VZN84">IZ*ONE</a><br>
+  
+<a href="./200223.html"></a>200223 SBS Inkigayo --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=_FaaybcEPbQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=8Mq8Q37iWZQ">Sakura Hidden Motive Inkigayo</a>, <a target="_blank" href="https://www.youtube.com/watch?v=vw3iFRxO0ZE">IZ*ONE</a>), <a target="_blank" href="https://www.youtube.com/watch?v=jVVl-rVG4Gg">IZ*ONE Sky Cam</a>), <a target="_blank" href="https://www.youtube.com/watch?v=7uKgDG_WaEs">IZ*ONE Jimmy Jib Cam</a>) <br>
+  
+<a href="./200225.html"></a>200225 SBS MTV The Show --- FIESTA (<a target="_blank" href="https://ok.ru/video/3343499725325">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=C7FHQc3tUbI">IZ*ONE</a>), - - SPACESHIP (<a target="_blank" href="https://ok.ru/video/3343505885709">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=-ihMa2_WKW4">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=dRjPhhjJHo4">THE SHOW CHOICE</a> <br>
+  
+<a href="./200226.html"></a>200226 MBC Music Show Champion --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=NAvSwDBqPWo">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=7Nj-hf-L6ug">IZ*ONE</a>)<br>
+  
+<a href="./200227.html"></a>200227 Mnet M! Countdown --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=vvwR1KinlHE">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=zwHfn2ULgIA">IZ*ONE</a>) - - <a target="_blank" href="https://www.youtube.com/watch?v=Zgowsl45oDI">1st Place Encore</a><br>
+  
 <a href="./200301.html"></a>200301 SBS Inkigayo<br>
+  
 <a href="./200303.html"></a>200303 SBS MTV The Show<br>
 <a href="./200304.html"></a>200304 MBC Music Show Champion<br>
 <a href="./200305.html"></a>200305 Mnet M! Countdown<br>
