@@ -126,11 +126,36 @@ Notes:
   
 <a href="./200630.html"></a>200630 SBS MTV The Show --- Secret Story of the Swan (<a target="_blank" href="https://ok.ru/video/3343708326413">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=S62LeaSBgj0">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/3343708523021">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343708457485">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343708588557">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343708391949">IZ*ONE Back View</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=cFLuauhYEWc">1st Place Encore</a><br>
   
-<a href="./200701.html"></a>200701 MBC Music Show Champion<br>
+<a href="./200701.html"></a>200701 MBC Music Show Champion --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=nc3LF19q2aA">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=CKnc1gB-FzI">IZ*ONE</a>)<br>
   
-<a href="./200702.html"></a>200702 Mnet M! Countdown<br>
-<a href="./200704.html"></a>200704 MBC Show! Music Core<br>
-<a href="./200705.html"></a>200705 SBS Inkigayo<br>
+<a href="./200702.html"></a>200702 Mnet M! Countdown --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=5HPgVxARBrI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=biWDo9wt21o">IZ*ONE</a>)<br>
+  
+<a href="./200704.html"></a>200704 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=YUkVzndBM6k">IZ*ONE</a>)<br>
+  
+<a href="./200705.html"></a>200705 SBS Inkigayo --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=QsAs9QB2ZYs">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=5-jmVTpAyDM">IZ*ONE</a>)<br>
+  
+<a href="./201128.html"></a>201128 Asia Artist Awards 2020 --- Rococo + Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=S-y5ASKe09M">IZ*ONE</a>)<br>
+  
+<a href="./201207.html"></a>201207 Mnet One-Reeler Show --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=7hDDBy58kGQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=9O6NM2b1lBc">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=7UJELUi1MVI">IZ*ONE</a>) --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=CFXWBQW2cQM">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hBlLaEt1VjI">IZ*ONE</a>)<br>
+  
+<a href="./201211.html"></a>201207 KBS2 Music Bank --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=dZvgzGZ_AJE">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hAgn6Rin_vA">IZ*ONE</a>)<br>
+  
+<a href="./201212.html">201212 MBC Show! Music Core --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=ORKUzpOvqG0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Nxc09HzFKu8">IZ*ONE</a>)</a> --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=sx8Zahxd7r8">IZ*ONE</a>)<br>
+  
+<a href="./201213.html">201213 SBS Inkigayo --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=F9a8AIgdj2o">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=QnpspHH1lL0">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=IL4OJuvxwDo">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=I2FKxGL4klE">IZ*ONE Sky Cam</a>) --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=occNVeRPVVQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=PBYwbh6x9Uk">IZ*ONE</a>)<br>
+  
+<a href="./201215.html"></a>201215 SBS MTV The Show --- Panorama (<a target="_blank" href="https://ok.ru/video/3343751973389">Sakura</a>, <a target="_blank" href="https://ok.ru/video/3343752038925">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343751907853">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343751776781">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343751842317">IZ*ONE Back View</a>) --- Sequence (<a target="_blank" href="https://ok.ru/video/3343756560909">Sakura</a>, <a target="_blank" href="https://ok.ru/video/3343756626445">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343756823053">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343756691981">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343756757517">IZ*ONE Back View</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=9lmNYDkmEiQ">THE SHOW CHOICE</a><br>
+  
+<a href="./201217.html">201217 Mnet M! Countdown --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=KHouvKWwYWc">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hjlyaPid_2I">IZ*ONE</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=H9eo3PXmHLg">1st Place Encore</a><br>
+  
+<a href="./201218.html"></a>201218 KBS Gayo Daechukje --- FIESTA + Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=0YNHrN-u2gI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=uwvua_pZRbU">IZ*ONE</a>)<br>
+  
+<a href="./201225.html"></a>201225 SBS 2020 Gayo Daejeon --- Secret Story of the Swan + Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=ObUvaqNnIk0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=m38KwVUQRfU">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=MVD97yoljcw">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=wVYkQp9VaXo">IZ*ONE Hanbam's Close-up</a>) --- Festival<br>
+  
+<a href="./20.html"></a><br>
+<a href="./20.html"></a><br>
+<a href="./20.html"></a><br>
+<a href="./20.html"></a><br>
 <a href="./20.html"></a><br>
 <a href="./20.html"></a><br>
 <a href="./20.html"></a><br>
