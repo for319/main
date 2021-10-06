@@ -122,10 +122,12 @@ Notes:
   
 <a href="./200627.html"></a>200627 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=ne5heyNQodE">IZ*ONE</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=bjPVEWoGf0I">1st Place Encore</a><br>
   
-<a href="./200628.html"></a>200628 SBS Inkigayo --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=yrDbj4eJ9-k">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=feuuEB2tXzg">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=IHZLHyq-QCU">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=rb2uuKI8ndA">IZ*ONE Side Cam</a>) --- 1st Place Encore (<a target="_blank" href="https://www.youtube.com/watch?v=bXKkOUtvaw8">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=n-m9apdZfqk">IZ*ONE Self-Cam</a><br>
+<a href="./200628.html"></a>200628 SBS Inkigayo --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=yrDbj4eJ9-k">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=feuuEB2tXzg">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=IHZLHyq-QCU">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=rb2uuKI8ndA">IZ*ONE Side Cam</a>) --- 1st Place Encore (<a target="_blank" href="https://www.youtube.com/watch?v=bXKkOUtvaw8">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=n-m9apdZfqk">IZ*ONE Self-Cam</a>)<br>
   
-<a href="./200630.html"></a>200630 SBS MTV The Show<br>
+<a href="./200630.html"></a>200630 SBS MTV The Show --- Secret Story of the Swan (<a target="_blank" href="https://ok.ru/video/3343708326413">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=S62LeaSBgj0">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/3343708523021">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343708457485">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343708588557">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343708391949">IZ*ONE Back View</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=cFLuauhYEWc">1st Place Encore</a><br>
+  
 <a href="./200701.html"></a>200701 MBC Music Show Champion<br>
+  
 <a href="./200702.html"></a>200702 Mnet M! Countdown<br>
 <a href="./200704.html"></a>200704 MBC Show! Music Core<br>
 <a href="./200705.html"></a>200705 SBS Inkigayo<br>
