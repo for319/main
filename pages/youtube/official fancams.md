@@ -5,7 +5,7 @@ layout: default
 <hr>
 
 Notes:
-- Official YouTube videos will be linked unless it has been taken down.
+- Official YouTube videos will be linked unless it has been taken down. In that instance, I will re-upload the video onto another site and link it.
 <br>
 <h2>2018</h2>
 <a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con
