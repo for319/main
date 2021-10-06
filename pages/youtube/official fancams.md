@@ -102,7 +102,7 @@ Notes:
   
 <a href="./200307.html"></a>200307 MBC Show! Music Core --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=yR9d4HLyebU">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FLUcocSIxCk">IZ*ONE</a>) --- SPACESHIP (<a target="_blank" href="https://www.youtube.com/watch?v=9hSXV4fNdYY">IZ*ONE</a>)<br>
   
-<a href="./200308.html"></a>200308 SBS Inkigayo --- FIESTA (<a target="_blank" href="https://ok.ru/video/3343609694733">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=g-CANwH3i4o">IZ*ONE</a>) <br>
+<a href="./200308.html"></a>200308 SBS Inkigayo --- FIESTA (<a target="_blank" href="https://www.youtube.com/watch?v=hp6uq7N-_cc">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=g-CANwH3i4o">IZ*ONE</a>) <br>
   
 <a href="./200615.html"></a>200615 Mnet IZ* ONE COMEBACK SHOW ONEIRIC DIARY --- Welcome + Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=nItEIw2F0dI">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=J19LItApO7s">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=A_ZDsM8QtOc">IZ* ONE</a>) --- Pretty (<a target="_blank" href="https://www.youtube.com/watch?v=WkB-SrmDPsM">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=f1dCUGTaSSA">IZ* ONE</a>) --- Merry-Go-Round (<a target="_blank" href="https://www.youtube.com/watch?v=oQQ6aQVxqIo">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=74r9rGOhHUU">Sakura Close-Up</a>, <a target="_blank" href="https://www.youtube.com/watch?v=C1dCbs58j0k">IZ*ONE</a>) --- With* One (<a target="_blank" href="https://www.youtube.com/watch?v=NWF84Jv3qxk">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=CKVOGsgRldc">IZ*ONE</a>)<br>
   
@@ -110,7 +110,7 @@ Notes:
   
 <a href="./200619.html"></a>200619 KBS2 Music Bank --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=vOUypc8iWKM">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=uxMY4izvi6s">IZ*ONE</a>)<br>
   
-<a href="./200620.html"></a>200620 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://ok.ru/video/3343646525965">Sakura</a>, <a target="_blank" href="https://ok.ru/video/3343646460429">IZ*ONE</a>)<br>
+<a href="./200620.html"></a>200620 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=s_5lzlnPDiw">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=b1GMc5ET84U">IZ*ONE</a>)<br>
   
 <a href="./200621.html"></a>200621 SBS Inkigayo --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=HNkaeXy9Vsc">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=0HCGNpP9BfM">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=XzTneHg1M0o">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=dwmym3D8Ea4">IZ*ONE Side Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=N1ZWJNmsA8Q">IZ*ONE Sky Cam</a>)<br>
   
@@ -120,7 +120,8 @@ Notes:
   
 <a href="./200626.html"></a>200626 KBS2 Music Bank --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=Ks6GkAtxHes">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=eisUKGNzIO0">IZ*ONE</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=ia6zmUhPO_Q">1st Place Encore</a><br>
   
-<a href="./200627.html"></a>200627 MBC Show! Music Core<br>
+<a href="./200627.html"></a>200627 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=ne5heyNQodE">IZ*ONE</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=bjPVEWoGf0I">1st Place Encore</a><br>
+  
 <a href="./200628.html"></a>200628 SBS Inkigayo<br>
 <a href="./200630.html"></a>200630 SBS MTV The Show<br>
 <a href="./200701.html"></a>200701 MBC Music Show Champion<br>
