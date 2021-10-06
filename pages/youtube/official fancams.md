@@ -110,10 +110,12 @@ Notes:
   
 <a href="./200619.html"></a>200619 KBS2 Music Bank --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=vOUypc8iWKM">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=uxMY4izvi6s">IZ*ONE</a>)<br>
   
-<a href="./200620.html"></a>200620 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=vOUypc8iWKM">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=uxMY4izvi6s">IZ*ONE</a>)<br>
+<a href="./200620.html"></a>200620 MBC Show! Music Core --- Secret Story of the Swan (<a target="_blank" href="https://ok.ru/video/3343646525965">Sakura</a>, <a target="_blank" href="https://ok.ru/video/3343646460429">IZ*ONE</a>)<br>
   
-<a href="./200621.html"></a>200621 SBS Inkigayo<br>
-<a href="./200623.html"></a>200623 SBS MTV The Show<br>
+<a href="./200621.html"></a>200621 SBS Inkigayo --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=HNkaeXy9Vsc">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=0HCGNpP9BfM">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=XzTneHg1M0o">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=dwmym3D8Ea4">IZ*ONE Side Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=N1ZWJNmsA8Q">IZ*ONE Sky Cam</a>)<br>
+  
+<a href="./200623.html"></a>200623 SBS MTV The Show  --- Secret Story of the Swan Rehearsal (<a target="_blank" href="https://ok.ru/video/3343658453517">Sakura</a>) --- Secret Story of the Swan (<a target="_blank" href="https://ok.ru/video/3343659895309">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=X-WW-Vyg5o8">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/3343654390285">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343654521357">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343654324749">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343654586893">IZ*ONE Back View</a>) --- Pretty Rehearsal (<a target="_blank" href="https://ok.ru/video/3343662975501">Sakura</a>) --- Pretty (<a target="_blank" href="https://ok.ru/video/3343663565325">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=8ZEzR7So7JM">IZ*ONE</a>, <a target="_blank" href="https://ok.ru/video/3343663827469">IZ*ONE Center View</a>, <a target="_blank" href="https://ok.ru/video/3343663761933">IZ*ONE Left View</a>, <a target="_blank" href="https://ok.ru/video/3343663630861">IZ*ONE Right View</a>, <a target="_blank" href="https://ok.ru/video/3343663696397">IZ*ONE Back View</a>)) --- With* ONE (<a target="_blank" href="https://www.youtube.com/watch?v=eKjN-hfgZyk">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=SYOaZPVEA9M">IZ*ONE</a>) --- <a target="_blank" href="https://www.youtube.com/watch?v=Q6TQik2ewgM">THE SHOW CHOICE</a><br>
+  
 <a href="./200624.html"></a>200624 MBC Music Show Champion<br>
 <a href="./200626.html"></a>200626 KBS2 Music Bank<br>
 <a href="./200627.html"></a>200627 MBC Show! Music Core<br>
