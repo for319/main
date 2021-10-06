@@ -141,7 +141,7 @@ Notes:
   
 <a href="./201211.html"></a>201207 KBS2 Music Bank --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=dZvgzGZ_AJE">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=hAgn6Rin_vA">IZ&#42;ONE</a>)<br>
   
-<a href="./201212.html"></a>201212 MBC Show! Music Core --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=ORKUzpOvqG0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Nxc09HzFKu8">IZ&#42;ONE</a>)</a> --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=sx8Zahxd7r8">IZ&#42;ONE</a>)<br>
+<a href="./201212.html"></a>201212 MBC Show! Music Core --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=ORKUzpOvqG0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=Nxc09HzFKu8">IZ&#42;ONE</a>) --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=sx8Zahxd7r8">IZ&#42;ONE</a>)<br>
   
 <a href="./201213.html"></a>201213 SBS Inkigayo --- Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=F9a8AIgdj2o">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=QnpspHH1lL0">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=IL4OJuvxwDo">IZ&#42;ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=I2FKxGL4klE">IZ&#42;ONE Sky Cam</a>) --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=occNVeRPVVQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=PBYwbh6x9Uk">IZ&#42;ONE</a>)<br>
   
