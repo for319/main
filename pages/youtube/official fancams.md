@@ -163,7 +163,7 @@ Notes:
 <a href="./20.html"></a><br>
 
 <h2>Others</h2>
-<a href="./gap crush.html"></a>Gap CRUSH<br>
-<a href="./studio choom.html"></a>STUDIO CHOOM<br>
+<a href="./gap crush.html"></a>Gap CRUSH --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=qRwAJI3RicM">IZ&#42;ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=RRdDXVLLTKo">IZ&#42;ONE High Teen ver.</a><br>
+<a href="./studio choom.html"></a>STUDIO CHOOM --- Secret Story of the Swan (<a target="_blank" href="https://www.youtube.com/watch?v=JIjGg5fratc">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=uBRKB1593aw">IZ&#42;ONE</a>)<br>
 <a href="./20.html"></a><br>
 <a href="./20.html"></a><br>
