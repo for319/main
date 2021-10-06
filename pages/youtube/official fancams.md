@@ -7,6 +7,7 @@ layout: default
 Notes:
 - Official YouTube videos will be linked unless it has been taken down. In that instance, I will re-upload the video onto another site and link it.
 <br>
+<br>
 <h2>2018</h2>
 <a href="./181029.html"></a>181029 Mnet IZ&#42;ONE Show-Con
 --- La Vie en Rose (<a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">IZ&#42;ONE</a>)<br>
