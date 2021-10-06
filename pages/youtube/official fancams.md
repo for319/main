@@ -152,7 +152,7 @@ Notes:
   
 <a href="./201225.html"></a>201225 SBS 2020 Gayo Daejeon --- Secret Story of the Swan + Panorama (<a target="_blank" href="https://www.youtube.com/watch?v=ObUvaqNnIk0">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=m38KwVUQRfU">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=MVD97yoljcw">IZ*ONE</a>, <a target="_blank" href="https://www.youtube.com/watch?v=wVYkQp9VaXo">IZ*ONE Hanbam's Close-up</a>) --- Festival (<a target="_blank" href="https://www.youtube.com/watch?v=YQSKubTGzs8">Sakura</a>, <a target="_blank" href="https://www.youtube.com/watch?v=nTmIebbZYI4">Sakura Face Cam</a>, <a target="_blank" href="https://www.youtube.com/watch?v=IzQAvJDcZDw">IZ*ONE</a>)<br>
   
-<a href="./210109.html"></a>210109 MBC Show! Music Core --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=4IlmctGiYfo">IZ*ONE</a><br>
+<a href="./210109.html"></a>210109 MBC Show! Music Core --- Sequence (<a target="_blank" href="https://www.youtube.com/watch?v=4IlmctGiYfo">IZ*ONE</a>)<br>
   
 <a href="./20.html"></a><br>
 <a href="./20.html"></a><br>
