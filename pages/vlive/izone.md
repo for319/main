@@ -78,6 +78,16 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/211462">200904 Trying🔥</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/212797">200913 3</a> (Post Oneiric Theatre)<br>
   <a target="_blank" href="https://www.vlive.tv/video/213977">200920 Sakura's Late Night Eating Show🌸🌙</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/1-19686295">201031 👻HalloWIZ*ONE🎃</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/1-20287585">201207 Guess Who</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/0-20748683">210117 K-POP PARTNER IZ*ONE Special V LIVE</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/1-21251656">210211 꾸챈과 그레텔♡</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/1-21252198">210211 꾸챈과 그레텔♡ (#2)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/1-21252255">210211 꾸챈과 그레텔♡ (#3)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/0-21273684">210213 Dinnertime</a><br>
+  <a target="_blank" href="https://www.vlive.tv/post/0-21273784">210213 Dinnertime (#2)</a><br>
+ 
+  
 
 <h3>Post</h3>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.8495269">181002 [✌️] Goodnight, IZnight 🌙</a><br>
